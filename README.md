@@ -1,4 +1,4 @@
-# rak-buku
+# Template For Vue CLI
 
 ## Project setup
 ```
